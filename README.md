@@ -1,6 +1,6 @@
 # Real-ESRGAN API
 
-Real-ESRGAN API is a Dockerized API service that provides an endpoint for enhancing images using the Real-ESRGAN model. This API allows you to upscale and improve the quality of images through an easy-to-use RESTful interface.
+https://github.com/xinntao/Real-ESRGAN
 
 ## 🚀 Getting Started
 
@@ -44,9 +44,7 @@ This will return an enhanced version of the input image.
 
 ## 📸 Preview
 
-![postman] (https://github.com/natnael9402/real-esrgan-api/blob/main/1.png "post man")
-
-[image]
+![Real-ESRGAN API Preview](https://github.com/natnael9402/real-esrgan-api/blob/main/1.png)
 
 ## 🛠 Requirements
 
@@ -60,4 +58,6 @@ This project is licensed under the MIT License.
 ---
 
 Made with ❤️ by **Natnael**
+
+
 
