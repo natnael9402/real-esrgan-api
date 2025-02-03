@@ -37,7 +37,7 @@ http://localhost:8000
 You can send a **POST request** with an image to process:
 
 ```sh
-curl -X POST -F "image=@path/to/image.jpg" http://localhost:8000/enhance
+curl -X POST -F "image=@path/to/image.jpg" http://localhost:8000/upscale
 ```
 
 This will return an enhanced version of the input image.
