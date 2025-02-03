@@ -44,9 +44,9 @@ This will return an enhanced version of the input image.
 
 ## 📸 Preview
 
+![postman] (https://github.com/natnael9402/real-esrgan-api/blob/main/1.png "post man")
 
-
-https\://github.com/natnael9402/real-esrgan-api/blob/main/1.png
+[image]
 
 ## 🛠 Requirements
 
